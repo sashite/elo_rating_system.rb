@@ -47,6 +47,12 @@ We can now use this to calculate the new Elo rating for player A:
 EloRatingSystem.elo(1613, 2.867, 2.5).round # => 1601
 ```
 
-## Contributing
+## License
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/sashite/elo_rating_system.
+The code is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+## About Sashite
+
+This gem is maintained by [Sashite](https://sashite.com/).
+
+With some [lines of code](https://github.com/sashite/), let's share the beauty of Chinese, Japanese and Western cultures through the game of chess!
