@@ -1,5 +1,7 @@
 # Elo rating system
 
+[![Build Status](https://travis-ci.org/sashite/elo_rating_system.svg?branch=master)](https://travis-ci.org/sashite/elo_rating_system)
+
 Very simple Ruby implementation of the Elo rating system, a method for calculating the relative skill levels of players in zero-sum games such as chess.
 
 It contains two functions: `expected(player_a, player_b)`, to calculate the expected score of `player_a` in a match against `player_b`; and `elo(old, exp, score, k_factor = 32)`, to calculate the new score for each player.
