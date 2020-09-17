@@ -53,6 +53,6 @@ The code is available as open source under the terms of the [MIT License](https:
 
 ## About Sashite
 
-This gem is maintained by [Sashite](https://sashite.com/).
+This [gem](https://rubygems.org/gems/elo_rating_system) is maintained by [Sashite](https://sashite.com/).
 
 With some [lines of code](https://github.com/sashite/), let's share the beauty of Chinese, Japanese and Western cultures through the game of chess!
